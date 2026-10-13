@@ -1,0 +1,7 @@
+{
+  "name": "Barangay Service Request and Complaint Portal",
+  "description": "Official civic digital portal for barangay residents to submit service requests, report community complaints, track status in real-time, and view verified public announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
